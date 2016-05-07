@@ -1,0 +1,698 @@
+fileFormatVersion: 2
+guid: 175f6b6b0577b4011824a6b2893c96b4
+timeCreated: 1462571907
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: birds_0
+    21300002: birds_1
+    21300004: birds_2
+    21300006: birds_3
+    21300008: birds_4
+    21300010: birds_5
+    21300012: birds_6
+    21300014: birds_7
+    21300016: birds_8
+    21300018: birds_9
+    21300020: birds_10
+    21300022: birds_11
+    21300024: birds_12
+    21300026: birds_13
+    21300028: birds_14
+    21300030: birds_15
+    21300032: birds_16
+    21300034: birds_17
+    21300036: birds_18
+    21300038: birds_19
+    21300040: birds_20
+    21300042: birds_21
+    21300044: birds_22
+    21300046: birds_23
+    21300048: birds_24
+    21300050: birds_25
+    21300052: birds_26
+    21300054: birds_27
+    21300056: birds_28
+    21300058: birds_29
+    21300060: birds_30
+    21300062: birds_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: birds_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 459
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 24.5}
+        - {x: -30.5, y: 16.5}
+        - {x: -30.5, y: -19.5}
+        - {x: -23.5, y: -24.5}
+        - {x: 30.5, y: -24.5}
+        - {x: 30.5, y: 16.5}
+        - {x: 23.5, y: 24.5}
+      tessellationDetail: 0
+    - name: birds_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 459
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 23}
+        - {x: -30.5, y: 13}
+        - {x: -30.5, y: -20}
+        - {x: -13.5, y: -23}
+        - {x: 23.5, y: -23}
+        - {x: 30.5, y: -21}
+        - {x: 30.5, y: 15}
+        - {x: 28.5, y: 23}
+      tessellationDetail: 0
+    - name: birds_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 454
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 25.5}
+        - {x: -30.5, y: 25.5}
+        - {x: -30.5, y: -25.5}
+        - {x: 17.5, y: -25.5}
+        - {x: 26.5, y: -21.5}
+        - {x: 30.5, y: -17.5}
+      tessellationDetail: 0
+    - name: birds_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 459
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 23}
+        - {x: -30.5, y: 19}
+        - {x: -30.5, y: -18}
+        - {x: -7.5, y: -23}
+        - {x: 23.5, y: -23}
+        - {x: 30.5, y: -21}
+        - {x: 30.5, y: 23}
+      tessellationDetail: 0
+    - name: birds_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 395
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 24.5}
+        - {x: -30.5, y: 16.5}
+        - {x: -30.5, y: -19.5}
+        - {x: -23.5, y: -24.5}
+        - {x: 30.5, y: -24.5}
+        - {x: 30.5, y: 16.5}
+        - {x: 23.5, y: 24.5}
+      tessellationDetail: 0
+    - name: birds_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 395
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 23}
+        - {x: -30.5, y: 13}
+        - {x: -30.5, y: -20}
+        - {x: -13.5, y: -23}
+        - {x: 23.5, y: -23}
+        - {x: 30.5, y: -21}
+        - {x: 30.5, y: 15}
+        - {x: 28.5, y: 23}
+      tessellationDetail: 0
+    - name: birds_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 390
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 25.5}
+        - {x: -30.5, y: 25.5}
+        - {x: -30.5, y: -25.5}
+        - {x: 17.5, y: -25.5}
+        - {x: 26.5, y: -21.5}
+        - {x: 30.5, y: -17.5}
+      tessellationDetail: 0
+    - name: birds_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 395
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 23}
+        - {x: -30.5, y: 19}
+        - {x: -30.5, y: -18}
+        - {x: -7.5, y: -23}
+        - {x: 23.5, y: -23}
+        - {x: 30.5, y: -21}
+        - {x: 30.5, y: 23}
+      tessellationDetail: 0
+    - name: birds_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 331
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 24.5}
+        - {x: -30.5, y: 16.5}
+        - {x: -30.5, y: -19.5}
+        - {x: -23.5, y: -24.5}
+        - {x: 30.5, y: -24.5}
+        - {x: 30.5, y: 16.5}
+        - {x: 23.5, y: 24.5}
+      tessellationDetail: 0
+    - name: birds_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 331
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 23}
+        - {x: -30.5, y: 13}
+        - {x: -30.5, y: -20}
+        - {x: -13.5, y: -23}
+        - {x: 23.5, y: -23}
+        - {x: 30.5, y: -21}
+        - {x: 30.5, y: 15}
+        - {x: 28.5, y: 23}
+      tessellationDetail: 0
+    - name: birds_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 326
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 25.5}
+        - {x: -30.5, y: 25.5}
+        - {x: -30.5, y: -25.5}
+        - {x: 17.5, y: -25.5}
+        - {x: 26.5, y: -21.5}
+        - {x: 30.5, y: -17.5}
+      tessellationDetail: 0
+    - name: birds_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 331
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 23}
+        - {x: -30.5, y: 19}
+        - {x: -30.5, y: -18}
+        - {x: -7.5, y: -23}
+        - {x: 23.5, y: -23}
+        - {x: 30.5, y: -21}
+        - {x: 30.5, y: 23}
+      tessellationDetail: 0
+    - name: birds_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 267
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 24.5}
+        - {x: -30.5, y: 16.5}
+        - {x: -30.5, y: -19.5}
+        - {x: -23.5, y: -24.5}
+        - {x: 30.5, y: -24.5}
+        - {x: 30.5, y: 16.5}
+        - {x: 23.5, y: 24.5}
+      tessellationDetail: 0
+    - name: birds_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 267
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 23}
+        - {x: -30.5, y: 13}
+        - {x: -30.5, y: -20}
+        - {x: -13.5, y: -23}
+        - {x: 23.5, y: -23}
+        - {x: 30.5, y: -21}
+        - {x: 30.5, y: 15}
+        - {x: 28.5, y: 23}
+      tessellationDetail: 0
+    - name: birds_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 262
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 25.5}
+        - {x: -30.5, y: 25.5}
+        - {x: -30.5, y: -25.5}
+        - {x: 17.5, y: -25.5}
+        - {x: 26.5, y: -21.5}
+        - {x: 30.5, y: -17.5}
+      tessellationDetail: 0
+    - name: birds_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 267
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 23}
+        - {x: -30.5, y: 19}
+        - {x: -30.5, y: -18}
+        - {x: -7.5, y: -23}
+        - {x: 23.5, y: -23}
+        - {x: 30.5, y: -21}
+        - {x: 30.5, y: 23}
+      tessellationDetail: 0
+    - name: birds_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 203
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 24.5}
+        - {x: -30.5, y: 16.5}
+        - {x: -30.5, y: -19.5}
+        - {x: -23.5, y: -24.5}
+        - {x: 30.5, y: -24.5}
+        - {x: 30.5, y: 16.5}
+        - {x: 23.5, y: 24.5}
+      tessellationDetail: 0
+    - name: birds_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 203
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 23}
+        - {x: -30.5, y: 13}
+        - {x: -30.5, y: -20}
+        - {x: -13.5, y: -23}
+        - {x: 23.5, y: -23}
+        - {x: 30.5, y: -21}
+        - {x: 30.5, y: 15}
+        - {x: 28.5, y: 23}
+      tessellationDetail: 0
+    - name: birds_18
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 198
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 25.5}
+        - {x: -30.5, y: 25.5}
+        - {x: -30.5, y: -25.5}
+        - {x: 17.5, y: -25.5}
+        - {x: 26.5, y: -21.5}
+        - {x: 30.5, y: -17.5}
+      tessellationDetail: 0
+    - name: birds_19
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 203
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 23}
+        - {x: -30.5, y: 19}
+        - {x: -30.5, y: -18}
+        - {x: -7.5, y: -23}
+        - {x: 23.5, y: -23}
+        - {x: 30.5, y: -21}
+        - {x: 30.5, y: 23}
+      tessellationDetail: 0
+    - name: birds_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 139
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 24.5}
+        - {x: -30.5, y: 16.5}
+        - {x: -30.5, y: -19.5}
+        - {x: -23.5, y: -24.5}
+        - {x: 30.5, y: -24.5}
+        - {x: 30.5, y: 16.5}
+        - {x: 23.5, y: 24.5}
+      tessellationDetail: 0
+    - name: birds_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 139
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 23}
+        - {x: -30.5, y: 13}
+        - {x: -30.5, y: -20}
+        - {x: -13.5, y: -23}
+        - {x: 23.5, y: -23}
+        - {x: 30.5, y: -21}
+        - {x: 30.5, y: 15}
+        - {x: 28.5, y: 23}
+      tessellationDetail: 0
+    - name: birds_22
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 134
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 25.5}
+        - {x: -30.5, y: 25.5}
+        - {x: -30.5, y: -25.5}
+        - {x: 17.5, y: -25.5}
+        - {x: 26.5, y: -21.5}
+        - {x: 30.5, y: -17.5}
+      tessellationDetail: 0
+    - name: birds_23
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 139
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 23}
+        - {x: -30.5, y: 19}
+        - {x: -30.5, y: -18}
+        - {x: -7.5, y: -23}
+        - {x: 23.5, y: -23}
+        - {x: 30.5, y: -21}
+        - {x: 30.5, y: 23}
+      tessellationDetail: 0
+    - name: birds_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 75
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 24.5}
+        - {x: -30.5, y: 16.5}
+        - {x: -30.5, y: -19.5}
+        - {x: -23.5, y: -24.5}
+        - {x: 30.5, y: -24.5}
+        - {x: 30.5, y: 16.5}
+        - {x: 23.5, y: 24.5}
+      tessellationDetail: 0
+    - name: birds_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 75
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 23}
+        - {x: -30.5, y: 13}
+        - {x: -30.5, y: -20}
+        - {x: -13.5, y: -23}
+        - {x: 23.5, y: -23}
+        - {x: 30.5, y: -21}
+        - {x: 30.5, y: 15}
+        - {x: 28.5, y: 23}
+      tessellationDetail: 0
+    - name: birds_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 70
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 25.5}
+        - {x: -30.5, y: 25.5}
+        - {x: -30.5, y: -25.5}
+        - {x: 17.5, y: -25.5}
+        - {x: 26.5, y: -21.5}
+        - {x: 30.5, y: -17.5}
+      tessellationDetail: 0
+    - name: birds_27
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 75
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 23}
+        - {x: -30.5, y: 19}
+        - {x: -30.5, y: -18}
+        - {x: -7.5, y: -23}
+        - {x: 23.5, y: -23}
+        - {x: 30.5, y: -21}
+        - {x: 30.5, y: 23}
+      tessellationDetail: 0
+    - name: birds_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 11
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 24.5}
+        - {x: -30.5, y: 16.5}
+        - {x: -30.5, y: -19.5}
+        - {x: -23.5, y: -24.5}
+        - {x: 30.5, y: -24.5}
+        - {x: 30.5, y: 16.5}
+        - {x: 23.5, y: 24.5}
+      tessellationDetail: 0
+    - name: birds_29
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 11
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 23}
+        - {x: -30.5, y: 13}
+        - {x: -30.5, y: -20}
+        - {x: -13.5, y: -23}
+        - {x: 23.5, y: -23}
+        - {x: 30.5, y: -21}
+        - {x: 30.5, y: 15}
+        - {x: 28.5, y: 23}
+      tessellationDetail: 0
+    - name: birds_30
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 6
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 25.5}
+        - {x: -30.5, y: 25.5}
+        - {x: -30.5, y: -25.5}
+        - {x: 17.5, y: -25.5}
+        - {x: 26.5, y: -21.5}
+        - {x: 30.5, y: -17.5}
+      tessellationDetail: 0
+    - name: birds_31
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 11
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 23}
+        - {x: -30.5, y: 19}
+        - {x: -30.5, y: -18}
+        - {x: -7.5, y: -23}
+        - {x: 23.5, y: -23}
+        - {x: 30.5, y: -21}
+        - {x: 30.5, y: 23}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
